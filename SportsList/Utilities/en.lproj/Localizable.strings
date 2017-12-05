@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SportsList
+
+  Created by Luca Bonadonna on 05/12/2017.
+  Copyright © 2017 Luca Bonadonna. All rights reserved.
+*/
+"title_list" ="List of Sport";
+"error_title" = "ERROR";
+"error_cancel_text" = "OK";
+
+"match_duration_text" = "The match will during: ";
+"time_duration_text" = "A single match will during: ";
+"number_of_times_text" = "The number of single match will be: ";
